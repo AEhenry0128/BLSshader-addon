@@ -13,7 +13,6 @@ Adds some brightness to particle. Also you can adjust the brightness.
 <img src="preview/EP_off.png" width="400px"> <img src="preview/EP_on.png" width="400px"> 
 
 
-<br/>
 
 ## Force Emissive Ore
 This is based on BSL shader original feature `Enhance Ore Visibility`. When enabled, it overrides that option. <br/>
