@@ -10,7 +10,7 @@ Adds the following features:
 ## Emissive Particle
 Adds some brightness to particle. Also you can adjust the brightness. 
 
-<img src="preview/EP_off.png" width="200px"> <img src="preview/EP_on.png" width="200px"> 
+<img src="preview/EP_off.png" width="400px"> <img src="preview/EP_on.png" width="400px"> 
 
 
 <br/>
@@ -19,4 +19,4 @@ Adds some brightness to particle. Also you can adjust the brightness.
 This is based on BSL shader original feature `Enhance Ore Visibility`. When enabled, it overrides that option. <br/>
 Forcibly keeps ores brightness even no light source is nearby.
 
-<img src="preview/FMO_off.png" width="200px"> <img src="preview/FMO_on.png" width="200px"> 
+<img src="preview/FMO_off.png" width="400px"> <img src="preview/FMO_on.png" width="400px"> 
