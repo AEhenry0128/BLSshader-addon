@@ -1,4 +1,4 @@
-# BLSshader v10.0 AEhenry add-on
+# BSLshader v10.0 AEhenry add-on
 
 This add-on was modified by [AEhenry]() using BSL shader and is compatible with versions 1.19 to 1.21+ <br/>
 Adds the following features:
