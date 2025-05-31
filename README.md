@@ -4,6 +4,7 @@ This add-on was modified by [AEhenry]() using BSL shader and is compatible with 
 Adds the following features:
 - Emissive Particle
 - Force Emissive Ore
+- Colored Stars
 
 <br/>
 
@@ -19,3 +20,11 @@ This is based on BSL shader original feature `Enhance Ore Visibility`. When enab
 Forcibly keeps ores brightness even no light source is nearby.
 
 <img src="preview/FMO_off.png" width="400px"> <img src="preview/FMO_on.png" width="400px"> 
+
+
+
+## Colored Stars
+You can adjust the stars color / amount / brightness. <br/>
+vanilla stars layer display also.
+
+<img src="preview/CS_off.png" width="400px"> <img src="preview/CS_on.png" width="400px"> 
