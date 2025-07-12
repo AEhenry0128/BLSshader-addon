@@ -28,3 +28,11 @@ You can adjust the stars color / amount / brightness. <br/>
 vanilla stars layer display also.
 
 <img src="preview/CS_off.png" width="400px"> <img src="preview/CS_on.png" width="400px"> 
+
+
+
+## Custom Outline
+You can adjust the outline color / glow. <br/>
+Outline enable needed (Extras page).
+
+<img src="preview/CTO_normal.png" width="400px"> <img src="preview/CTO_glow.png" width="400px"> 
