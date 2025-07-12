@@ -5,6 +5,7 @@ Adds the following features:
 - Emissive Particle
 - Force Emissive Ore
 - Colored Stars
+- Custom Outline
 
 <br/>
 
