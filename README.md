@@ -6,6 +6,7 @@ Adds the following features:
 - Force Emissive Ore
 - Colored Stars
 - Custom Outline
+- MCBL Brightness Enhancement
 
 <br/>
 
